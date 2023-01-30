@@ -38,7 +38,7 @@ class HomeView extends GetView<HomeController> {
               Text(
                 'Hasil Suara ke Text:',
                 style: TextStyle(
-                  fontSize: 10,
+                  fontSize: 11,
                   fontWeight: FontWeight.w500,
                   color: Colors.black54,
                 ),
